@@ -1,0 +1,112 @@
+﻿@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+@model ProductsViewModels
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog ">
+        <div class="modal-content bg-dark text-light" id="modeldiv">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Parents-popup</h1>
+            </div>
+            <div class="modal-body text-center">
+                <label class="text-start">Name</label>
+                <input class="form-control" placeholder="enter the name" required />
+                <span style="color:red;" class="mt-1 winky-sans" id="validspanparents"></span>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" id="clbtn" data-bs-dismiss="modal">Close</button>
+                <button type="button" id="addbtnpopup" class="btn btn-primary">Add item</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="propanle" class="container-fluid">
+    <div class="row rowfirst  p-3">
+        <div class="col-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3 headerbtndivs">
+            <button class="headerbtnsproducts" data-bs-toggle="modal" id="cityin" data-bs-target="#exampleModal">Add City</button>
+        </div>
+        <div class="col-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3 headerbtndivs">
+            <button class="headerbtnsproducts" data-bs-toggle="modal" id="brandin" data-bs-target="#exampleModal">Add Brand</button>
+        </div>        <div class="col-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3 headerbtndivs">
+            <button class="headerbtnsproducts" data-bs-toggle="modal" id="Tagin" data-bs-target="#exampleModal">Add Tag</button>
+        </div>
+        <div class="col-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3 headerbtndivs">
+            <div class="dropdown">
+                <button class="headerbtnsproducts dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    item lists
+                </button>
+                <ul class="dropdown-menu">
+                    <li><button class="dropdown-item" id="Prdlistbtn">Products List</button></li>
+                    <li><button class="dropdown-item" id="Citlistbtn">Citys list</button></li>
+                    <li><button class="dropdown-item" id="Tagslistbtn">tags list</button></li>
+                    <li><button class="dropdown-item" id="Brandslistbtn">Brands list</button></li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+    <form class="row g-3 needs-validation" id="InsertTable" novalidate>
+        <div class="row mt-4 mb-5  justify-content-center ">
+            <div class="col-12 p-3 rounded col-sm-9 col-md-7 col-lg-5 bg-info col-xl-5 col-xxl-5 div-container-inputs">
+                <div class="text-center">
+                    <h1><b>Inser Product</b></h1>
+                </div>
+                <div>
+                    <label>Name</label>
+                    <input required class="form-control" placeholder="enter a name of item" asp-for="name" />
+                </div>
+                <div>
+                    <label>Price</label>
+                    <input required class="form-control" placeholder="enter a price of item" asp-for="price" />
+                </div>
+                <div>
+                    <label>count</label>
+                    <input required class="form-control" placeholder="enter a count of item" asp-for="count" />
+                </div>
+                <div>
+                    <label>tags</label>
+                    <select class="form-control" required asp-for="Tagsid"></select>
+                </div>
+                <div>
+                    <label>Citis</label>
+                    <select class="form-control" required asp-for="Cityid"></select>
+                </div>
+                <div>
+                    <label>Brands</label>
+                    <select class="form-control" required asp-for="Brandid"></select>
+                </div>
+                <div>
+                    <label>Image</label>
+                    <input required multiple type="file" class="form-control" asp-for="Image">
+                </div>
+                <div>
+                    <label>description</label>
+                    <textarea class="form-control" placeholder="enter a description for your product" asp-for="description" required></textarea>
+                    <span style="color:red;font:x-large" id="desspan"></span>
+                </div>
+                <div id="diviamges" class="py-1"></div>
+                <div class="form-check form-switch pt-1">
+                    <input class="form-check-input" type="checkbox" asp-for="order">
+                    <label class="form-check-label" for="flexSwitchCheckDefault">Has an order</label>
+                </div>
+                <div class="pt-2">
+                    <button id="additembtn" type="submit" class="btn btn-outline-light w-100">Add Products</button>
+                    <button id="updateitem" hidden type="button" class="btn btn-outline-success w-50">update Products</button>
+                    <button id="Cancelbtn" hidden type="button" class="btn btn-outline-danger">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </form>
+    <div class="row justify-content-center py-4" id="divtableparent" hidden>
+        <div class="col-8 p-0 divcoltables table-responsive">
+            <table class="text-center  table mb-0 table-bordered table-striped">
+                <thead class="table-success" id="theadAdP">
+                </thead>
+                <tbody id="tbodyProducts"></tbody>
+            </table>
+        </div>
+        <div class="justify-content-center d-flex pt-3 col-12" data-bs-theme="dark">
+            <button type="button" class="btn-close" id="closetable" aria-label="Close"></button>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1222 @@
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\appsettings.Development.json
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\appsettings.json
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.staticwebassets.runtime.json
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.staticwebassets.endpoints.json
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.exe
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.deps.json
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.runtimeconfig.json
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.pdb
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.AssemblyInfoInputs.cache
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.AssemblyInfo.cs
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.csproj.CoreCompileInputs.cache
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.MvcApplicationPartsAssemblyInfo.cache
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.RazorAssemblyInfo.cache
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.RazorAssemblyInfo.cs
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\scopedcss\bundle\ProJect.styles.css
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\scopedcss\projectbundle\ProJect.bundle.scp.css
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ttr6rokpa3-61n19gt1b8.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lnwsqnj87o-bqjiyaj88i.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hn4cn0ikw4-c2jlpeoesf.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ax91q25y66-erw9l3u2r3.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\c898x2z36l-aexeepp0ev.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lqpqow0cx2-d7shbmvgxk.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\z41960ohj4-ausgxo2sd3.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\33q8lirjxp-k8d9w2qqmf.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5kz9haiwah-cosvhxvwiu.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\esb2eoycmi-ub07r2b239.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\t9ked26q9o-fvhpjtyr6v.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\18djq6pacr-b7pk76d08c.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\84gsjtdwls-fsbi9cje9m.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\wjzlfh7xno-rzd6atqjts.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hy1il71jl7-ee0r1s7dh0.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\mity8rr5al-dxx9fxp4il.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\kmgfrcd2z1-jd9uben2k1.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vz2ap2nbm0-khv3u5hwcm.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\klbt6dze54-r4e9w2rdcm.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\6rdo82e47q-lcd1t2u6c8.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\aeevv278dg-c2oey78nd0.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\g5yleptwd4-tdbxkamptv.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\4apxel3iyf-j5mq2jizvt.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\dxr6fwo9l3-06098lyss8.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\b5vryxz2bv-nvvlpmu67g.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\0hwcgd5914-s35ty4nyc5.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hliocee9vu-pj5nd1wqec.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\54wzggf5hs-46ein0sx1k.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ktoalvf3dc-v0zj4ognzu.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\460r55sm9s-37tfw0ft22.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\eewv9abnjy-hrwsygsryq.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\pjh6v6kgi0-pk9g2wxc8p.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\2qbe8zyedc-ft3s53vfgj.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\iwx63xp1b2-6cfz1n2cew.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\jju5nr3tla-6pdc2jztkx.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qimtxg3zz6-493y06b0oq.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ehtf1n0jvu-iovd86k7lj.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\6pgppfki4u-vr1egmr9el.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\n9xg2r4fzh-kbrnm935zg.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\02ivz3cvkn-jj8uyg4cgr.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\s1xk5sj73n-y7v9cxd14o.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ru0et4czto-notf2xhcfb.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lc14asiu50-h1s4sie4z3.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ukiwhm4ijy-63fj8s7r0e.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\jtsltbc3oy-0j3bgjxly4.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\mhehn69gzw-47otxtyo56.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qrxmaz4lts-4v8eqarkd7.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vaprgi89im-356vix0kms.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\kab18wun2r-83jwlth58m.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\1l9o2t1cx2-mrlpezrjn3.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\p993brcphv-lzl9nlhx6b.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\df2f75qhu5-ag7o75518u.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qi4bv0p0se-x0q3zqp4vz.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\fw55hy0a8v-0i3buxo5is.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\fxj605i03b-o1o13a6vjx.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\jj75s19kl5-ttgo8qnofa.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5u4vly8vfh-2z0ns9nrw6.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\mp5xzw08rn-muycvpuwrr.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ddluy16sxe-87fc7y1x7t.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\45jkbw1em1-mlv21k5csn.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\u3fgt0gjbi-izj362hr9p.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vntxqcgd85-izj362hr9p.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.build.json
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.development.json
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets\msbuild.ProJect.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets\msbuild.ProJect.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets\msbuild.build.ProJect.props
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProJect.props
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProJect.props
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.pack.json
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.dll
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\refint\ProJect.dll
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.pdb
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.genruntimeconfig.cache
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ref\ProJect.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Humanizer.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Build.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Common.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.CodeDom.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.csproj.AssemblyReference.cache
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.csproj.Up2Date
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Azure.Core.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Azure.Identity.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.ClientModel.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Memory.Data.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.MvcApplicationPartsAssemblyInfo.cs
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\3f4n3jtw0h-l1mhosozma.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ezudk37lw3-3r8b2a0bt1.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\wl5mvgsdm7-u58qgc0b53.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\brrjsqvii1-k535u3noiq.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5ry5puzhu3-wiy8q9jh5y.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\b6emxdcgwx-qwi0jakqty.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5cch0fuc4n-8b0yf6z2g6.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\85v87us33q-7vr240vm1k.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\1bcmj4cj7d-feyplrt2cv.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\66e876scwy-0z2ge1j3w6.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\zwz7uvo08p-j2cs8qgu9c.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vlwd7z73a7-lxs1jkwjaf.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\r3hiib58kn-9oeu5i603t.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\n6rak7krxl-h81h8aacfp.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\buiyammmbf-mewms2br07.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\g8vvn09ub2-loqkf2so4b.gz
+D:\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ycpdbzams3-4eft4kxtsj.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\appsettings.json
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.staticwebassets.endpoints.json
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.staticwebassets.runtime.json
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.exe
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.deps.json
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.runtimeconfig.json
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.pdb
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Humanizer.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.csproj.AssemblyReference.cache
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.AssemblyInfoInputs.cache
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.AssemblyInfo.cs
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.csproj.CoreCompileInputs.cache
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.RazorAssemblyInfo.cache
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.RazorAssemblyInfo.cs
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\scopedcss\bundle\ProJect.styles.css
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\scopedcss\projectbundle\ProJect.bundle.scp.css
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ttr6rokpa3-61n19gt1b8.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\85v87us33q-7vr240vm1k.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\1bcmj4cj7d-feyplrt2cv.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lnwsqnj87o-bqjiyaj88i.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hn4cn0ikw4-c2jlpeoesf.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ax91q25y66-erw9l3u2r3.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\c898x2z36l-aexeepp0ev.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lqpqow0cx2-d7shbmvgxk.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\z41960ohj4-ausgxo2sd3.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\33q8lirjxp-k8d9w2qqmf.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5kz9haiwah-cosvhxvwiu.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\esb2eoycmi-ub07r2b239.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\t9ked26q9o-fvhpjtyr6v.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\18djq6pacr-b7pk76d08c.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\84gsjtdwls-fsbi9cje9m.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\wjzlfh7xno-rzd6atqjts.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hy1il71jl7-ee0r1s7dh0.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\mity8rr5al-dxx9fxp4il.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\kmgfrcd2z1-jd9uben2k1.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vz2ap2nbm0-khv3u5hwcm.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\klbt6dze54-r4e9w2rdcm.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\6rdo82e47q-lcd1t2u6c8.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\aeevv278dg-c2oey78nd0.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\g5yleptwd4-tdbxkamptv.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\4apxel3iyf-j5mq2jizvt.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\dxr6fwo9l3-06098lyss8.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\b5vryxz2bv-nvvlpmu67g.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\0hwcgd5914-s35ty4nyc5.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hliocee9vu-pj5nd1wqec.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\54wzggf5hs-46ein0sx1k.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ktoalvf3dc-v0zj4ognzu.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\460r55sm9s-37tfw0ft22.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\eewv9abnjy-hrwsygsryq.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\pjh6v6kgi0-pk9g2wxc8p.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\2qbe8zyedc-ft3s53vfgj.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\iwx63xp1b2-6cfz1n2cew.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\jju5nr3tla-6pdc2jztkx.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qimtxg3zz6-493y06b0oq.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ehtf1n0jvu-iovd86k7lj.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\6pgppfki4u-vr1egmr9el.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\n9xg2r4fzh-kbrnm935zg.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\02ivz3cvkn-jj8uyg4cgr.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\s1xk5sj73n-y7v9cxd14o.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ru0et4czto-notf2xhcfb.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lc14asiu50-h1s4sie4z3.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ukiwhm4ijy-63fj8s7r0e.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\jtsltbc3oy-0j3bgjxly4.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\mhehn69gzw-47otxtyo56.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qrxmaz4lts-4v8eqarkd7.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vaprgi89im-356vix0kms.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\kab18wun2r-83jwlth58m.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\1l9o2t1cx2-mrlpezrjn3.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\p993brcphv-lzl9nlhx6b.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\df2f75qhu5-ag7o75518u.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qi4bv0p0se-x0q3zqp4vz.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\fw55hy0a8v-0i3buxo5is.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\fxj605i03b-o1o13a6vjx.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\jj75s19kl5-ttgo8qnofa.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5u4vly8vfh-2z0ns9nrw6.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\mp5xzw08rn-muycvpuwrr.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ddluy16sxe-87fc7y1x7t.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\45jkbw1em1-mlv21k5csn.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5cch0fuc4n-8b0yf6z2g6.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\b6emxdcgwx-qwi0jakqty.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5ry5puzhu3-wiy8q9jh5y.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\u3fgt0gjbi-izj362hr9p.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vntxqcgd85-izj362hr9p.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets\msbuild.ProJect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets\msbuild.ProJect.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets\msbuild.build.ProJect.props
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProJect.props
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProJect.props
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.csproj.Up2Date
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\refint\ProJect.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.pdb
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.genruntimeconfig.cache
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ref\ProJect.dll
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\3f4n3jtw0h-l1mhosozma.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vlc1lzplvf-8o9g5bskst.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\66e876scwy-dw17gmzhaq.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vlwd7z73a7-llktu8sbat.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\g8vvn09ub2-loqkf2so4b.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\buiyammmbf-3w33m9in99.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\4mvg4tfddd-tnvef4x0nm.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\r3hiib58kn-dgwy652heu.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\n6rak7krxl-on1ra9n077.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ycpdbzams3-7ruup0jel5.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\brrjsqvii1-uag6cc3jbw.gz
+C:\Users\kushan\source\repos\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\zwz7uvo08p-1s04tga8an.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\appsettings.Development.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\appsettings.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.staticwebassets.runtime.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.staticwebassets.endpoints.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.exe
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.deps.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.runtimeconfig.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ProJect.pdb
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Azure.Core.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Azure.Identity.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Humanizer.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Build.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Common.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.ClientModel.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.CodeDom.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Memory.Data.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.csproj.AssemblyReference.cache
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.GeneratedMSBuildEditorConfig.editorconfig
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.AssemblyInfoInputs.cache
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.AssemblyInfo.cs
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.csproj.CoreCompileInputs.cache
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.MvcApplicationPartsAssemblyInfo.cs
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.MvcApplicationPartsAssemblyInfo.cache
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.RazorAssemblyInfo.cache
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.RazorAssemblyInfo.cs
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\scopedcss\bundle\ProJect.styles.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ttr6rokpa3-61n19gt1b8.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\85v87us33q-7vr240vm1k.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\1bcmj4cj7d-feyplrt2cv.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\3f4n3jtw0h-l1mhosozma.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vlwd7z73a7-llktu8sbat.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\66e876scwy-dw17gmzhaq.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\brrjsqvii1-uag6cc3jbw.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\r3hiib58kn-dgwy652heu.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lnwsqnj87o-bqjiyaj88i.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hn4cn0ikw4-c2jlpeoesf.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ax91q25y66-erw9l3u2r3.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\c898x2z36l-aexeepp0ev.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lqpqow0cx2-d7shbmvgxk.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\z41960ohj4-ausgxo2sd3.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\33q8lirjxp-k8d9w2qqmf.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5kz9haiwah-cosvhxvwiu.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\esb2eoycmi-ub07r2b239.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\t9ked26q9o-fvhpjtyr6v.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\18djq6pacr-b7pk76d08c.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\84gsjtdwls-fsbi9cje9m.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\wjzlfh7xno-rzd6atqjts.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hy1il71jl7-ee0r1s7dh0.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\mity8rr5al-dxx9fxp4il.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\kmgfrcd2z1-jd9uben2k1.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vz2ap2nbm0-khv3u5hwcm.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\klbt6dze54-r4e9w2rdcm.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\6rdo82e47q-lcd1t2u6c8.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\aeevv278dg-c2oey78nd0.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\g5yleptwd4-tdbxkamptv.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\4apxel3iyf-j5mq2jizvt.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\dxr6fwo9l3-06098lyss8.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\b5vryxz2bv-nvvlpmu67g.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\0hwcgd5914-s35ty4nyc5.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\hliocee9vu-pj5nd1wqec.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\54wzggf5hs-46ein0sx1k.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ktoalvf3dc-v0zj4ognzu.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\460r55sm9s-37tfw0ft22.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\eewv9abnjy-hrwsygsryq.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\pjh6v6kgi0-pk9g2wxc8p.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\2qbe8zyedc-ft3s53vfgj.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\iwx63xp1b2-6cfz1n2cew.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\jju5nr3tla-6pdc2jztkx.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qimtxg3zz6-493y06b0oq.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ehtf1n0jvu-iovd86k7lj.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\6pgppfki4u-vr1egmr9el.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\n9xg2r4fzh-kbrnm935zg.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\02ivz3cvkn-jj8uyg4cgr.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\s1xk5sj73n-y7v9cxd14o.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ru0et4czto-notf2xhcfb.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\lc14asiu50-h1s4sie4z3.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ukiwhm4ijy-63fj8s7r0e.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\jtsltbc3oy-0j3bgjxly4.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\mhehn69gzw-47otxtyo56.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qrxmaz4lts-4v8eqarkd7.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vaprgi89im-356vix0kms.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\kab18wun2r-83jwlth58m.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\1l9o2t1cx2-mrlpezrjn3.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\p993brcphv-lzl9nlhx6b.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\df2f75qhu5-ag7o75518u.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\qi4bv0p0se-x0q3zqp4vz.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\fw55hy0a8v-0i3buxo5is.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\fxj605i03b-o1o13a6vjx.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\jj75s19kl5-ttgo8qnofa.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5u4vly8vfh-2z0ns9nrw6.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\mp5xzw08rn-muycvpuwrr.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ddluy16sxe-87fc7y1x7t.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\45jkbw1em1-mlv21k5csn.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5cch0fuc4n-8b0yf6z2g6.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\buiyammmbf-3w33m9in99.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\4mvg4tfddd-tnvef4x0nm.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\b6emxdcgwx-qwi0jakqty.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\ycpdbzams3-7ruup0jel5.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\g8vvn09ub2-loqkf2so4b.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\vlc1lzplvf-8o9g5bskst.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\5ry5puzhu3-wiy8q9jh5y.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\n6rak7krxl-on1ra9n077.gz
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.build.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.development.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.csproj.Up2Date
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\refint\ProJect.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.pdb
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ProJect.genruntimeconfig.cache
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\ref\ProJect.dll
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\obj\Debug\net9.0\compressed\zwz7uvo08p-75gdggb3yb.gz

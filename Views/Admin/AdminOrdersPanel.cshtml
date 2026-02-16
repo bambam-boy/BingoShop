@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row justify-content-center w-100 g-2">
+        <div class="mt-3">
+            <h1 class="headerfont"><i class="bi bi-minecart-loaded"></i>Orders</h1>
+        </div>
+        <div class="col-12 col-sm-4 m-3 concontainer  text-center p-2">
+            <button id="totalordersday" class="btns">
+                <div class="row justify-content-center align-items-center ">
+                    <div class="col-8 contentptotals p-0">
+                        <p class="playwrite-it-moderna m-0">Total orders for the day</p>
+                        <span id="totalordersdayspan">0</span>
+                    </div>
+                    <div class="col-3 colicon">
+                        <i class="bi bi-cart bicolorcart"></i>
+                    </div>
+                </div>
+            </button>
+        </div>        <div class="col-12 col-sm-4 m-3 concontainer  text-center p-2">
+            <button id="totalorderweek" class="btns">
+                <div class="row justify-content-center align-items-center ">
+                    <div class="col-8 contentptotals p-0">
+                        <p class="playwrite-it-moderna m-0">Total orders for the week</p>
+                        <span id="totalordersspanweek">0</span>
+                    </div>
+                    <div class="col-3 colicon">
+                        <i class="bi bi-cart bicolorcart"></i>
+                    </div>
+                </div>
+            </button>
+        </div>        <div class="col-12 col-sm-4 m-3 concontainer  text-center p-2">
+            <button id="totalordersmonth" class="btns">
+                <div class="row justify-content-center align-items-center ">
+                    <div class="col-8 contentptotals p-0">
+                        <p class="playwrite-it-moderna m-0">Total orders for the month</p>
+                        <span id="totalordersmonthspan">0</span>
+                    </div>
+                    <div class="col-3 colicon">
+                        <i class="bi bi-cart bicolorcart"></i>
+                    </div>
+                </div>
+            </button>
+        </div>
+        <div class="col-12 col-sm-4 m-3 concontainer  text-center p-2">
+            <button id="topordersmonth" class="btns">
+                <div class="row justify-content-center align-items-center ">
+                    <div class="col-8 contentptotals p-0">
+                        <p class="playwrite-it-moderna m-0">top orders count in a month</p>
+                        <span id="topspanordersmonth">0</span>
+                    </div>
+                    <div class="col-3 colicon">
+                        <i class="bi bi-cart-check bicolorcart"></i>
+                    </div>
+                </div>
+            </button>
+        </div>
+    </div>
+    <div class="row px-5 py-3 table-responsive justify-content-center" hidden id="tabledivhinohi">
+        <table>
+            <thead id="theadfororders"></thead>
+            <tbody id="tbodyfororders"></tbody>
+        </table>
+        <button type="button" class="btn-close" hidden aria-label="Close" id="closebtntable"></button>
+    </div>
+</div>

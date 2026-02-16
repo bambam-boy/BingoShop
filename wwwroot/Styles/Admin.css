@@ -1,0 +1,150 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+    --moneycolor: #168118;
+}
+
+.colicon .money {
+    color: var(--moneycolor) !important;
+}
+
+
+.winky-sans {
+    font-family: "Winky Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.colicon i {
+    font-size: 4.5rem;
+    color: black;
+    transition: .5s;
+}
+
+.playwrite-it-moderna {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.concontainer {
+    box-shadow: 0 0 15px var(--darkgray);
+    width: 460px !important;
+    border-radius: 10px;
+    background-color:var(--darkcolor) !important;
+    transition:.5s;
+    transition:.5s;
+}
+
+.contentptotals p {
+    font-size: 1.7rem;
+}
+
+.btns {
+    border: none;
+    background-color:transparent;
+    width: 100%;
+    color:white !important;
+}
+
+.concontainer:hover {
+    transform:scale(1.05);
+
+}
+
+.headerfont ,.headerfont i{
+    color: #6908d4 !important;
+    transition: .5s;
+}
+
+.containerinps div {
+    margin:15px;
+
+}
+
+.containerinps {
+    box-shadow:0 0 50px var(--darkgray);
+    border-radius:20px;
+}
+
+.filterbtnsinsertpage {
+    background-color:transparent;
+    color:white;
+    transition:.5s;
+    border:none;
+    border-bottom:1px solid white;
+}
+
+    .filterbtnsinsertpage:hover {
+        border:1px solid white;
+        border-radius:7px;
+        box-shadow:0 0 10px white;
+        transition:.5s;
+    }
+
+.btnparentdiv {
+    padding:15px;
+    margin-bottom:1rem;
+    margin-top:3rem;
+}
+
+.bicolorcart {
+    color: #636363 !important;
+}
+
+.concontainer button:hover {
+    cursor: default;
+}
+
+.headertextproducts i {
+    color:white !important;
+}
+
+.containerbox div {
+    border-radius:8px;
+    box-shadow:0 0 10px var(--darkgray);
+}
+
+.adminlogout:hover {
+    color:black !important;
+}
+
+    .adminlogout:hover i {
+        color: #780000 !important;
+    }
+
+.adminlogout i {
+    color: #9a031e !important;
+}
+
+#propanle .rowfirst {
+    border-bottom: 1px solid white;
+}
+
+.headerbtnsproducts {
+    border-bottom: 1px solid white !important;
+    border: none;
+    background-color: transparent;
+    color: white;
+    transition: .5s;
+}
+
+    .headerbtnsproducts:hover {
+        border:1px solid white !important;
+        border-radius:8px;
+        box-shadow:0 0 10px white;
+    }
+
+.headerbtndivs {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:10px;
+}
+
+.div-container-inputs {
+    transition:.5s !important;
+}

@@ -1,0 +1,113 @@
+﻿@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row justify-content-center w-100 g-2">
+        <div class="px-3 col-12 mb-3 p-0">
+            <div class="row align-items-center">
+                <div class="col-6 px-0 justify-content-start">
+                    <h1 class="headerfont"><i class="bi bi-text-left text-black justify-content-start"></i>Dashboard</h1>
+                </div>
+                <div class="col-6 d-flex py-sm-1 p-md-0 p-0 p-lg-0 p-xl-0 p-xxl-0 justify-content-end">
+                    <div class="dropdow">
+                        <button class="btn btn-sm btn-outline-dark dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            options
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li><button class="dropdown-item" id="todolist">to do list</button></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-sm-4 m-3 concontainer  text-center p-2">
+            <button id="totalday" class="btns">
+                <div class="row justify-content-center align-items-center ">
+                    <div class="col-8 contentptotals p-0">
+                        <p class="playwrite-it-moderna m-0">Total sales for the day</p>
+                        <span id="totaldayspan">0</span>
+                    </div>
+                    <div class="col-3 colicon">
+                        <i class="bi bi-cash-stack money"></i>
+                    </div>
+                </div>
+            </button>
+        </div>
+        <div class="col-12 col-sm-4 m-3 concontainer  text-center p-2">
+            <button class="btns" id="totalmonth">
+                <div class="row justify-content-center align-items-center ">
+                    <div class="col-8 contentptotals p-0">
+                        <p class="playwrite-it-moderna m-0">Total sales for the month</p>
+                        <span id="totalmonthspan">0</span>
+                    </div>
+                    <div class="col-3 colicon">
+                        <i class="bi bi-cash-stack money"></i>
+                    </div>
+                </div>
+            </button>
+        </div>
+        <div class="col-12 col-sm-4 m-3 concontainer  text-center p-2">
+            <button class="btns" id="weektotal">
+                <div class="row justify-content-center align-items-center ">
+                    <div class="col-8 contentptotals p-0">
+                        <p class="playwrite-it-moderna m-0">Total sales for the week</p>
+                        <span id="totalspanweek">0</span>
+                    </div>
+                    <div class="col-3 colicon">
+                        <i class="bi bi-cash-stack money"></i>
+                    </div>
+                </div>
+            </button>
+        </div>
+        <div class="col-12 col-sm-4 m-3 concontainer  text-center p-2">
+            <button id="totalorders" class="btns">
+                <div class="row justify-content-center align-items-center ">
+                    <div class="col-8 contentptotals p-0">
+                        <p class="playwrite-it-moderna m-0">Top products last week</p>
+                        <span id="totalday">0</span>
+                    </div>
+                    <div class="col-3 colicon">
+                        <i class="bi bi-bag" style="color:#9C7D49 !important;"></i>
+                    </div>
+                </div>
+            </button>
+        </div>        
+        <div class="col-12 col-sm-4 m-3 concontainer  text-center p-2">
+            <button id="poporders" class="btns">
+                <div class="row justify-content-center align-items-center ">
+                    <div class="col-8 contentptotals p-0">
+                        <p class="playwrite-it-moderna m-0">avrage sales last month</p>
+                        <span id="popordersspan">0</span>
+                    </div>
+                    <div class="col-3 colicon">
+                        <i style="color:#fff220 !important;" class="bi bi-star"></i>
+                    </div>
+                </div>
+            </button>
+        </div>        
+        <div class="col-12 col-sm-4 m-3 concontainer  text-center p-2">
+            <button id="popweek" class="btns">
+                <div class="row justify-content-center align-items-center ">
+                    <div class="col-8 contentptotals p-0">
+                        <p class="playwrite-it-moderna m-0">avrage sales last week</p>
+                        <span id="popweekspan">0</span>
+                    </div>
+                    <div class="col-3 colicon">
+                        <i style="color:#fff220 !important;" class="bi bi-star"></i>
+                    </div>
+                </div>
+            </button>
+        </div>
+    </div>
+    @*fiixxxx*@
+    <div class="row px-5 py-3 table-responsive justify-content-center" id="divtable">
+        <table class="table table-bordered table-striped">
+            <thead id="thead"></thead>
+            <tbody id="tbody"></tbody>
+        </table>
+        @*in button ham hidden hast ha*@
+        <button type="button" class="btn-close" hidden aria-label="Close" id="closetable"></button>
+    </div>
+</div>

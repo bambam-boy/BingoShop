@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Shared/Accountlayout.cshtml";
+}
+<link rel="stylesheet" href="~/Styles/Orderspanel.css" />
+<link rel="stylesheet" href="~/Styles/accountpanel.css" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<div class="container-fluid">
+    <div class="row my-5 p-0 d-flex justify-content-center">
+        <div class="tablediv p-0 col-8">
+            <div class="col-auto divcoltables table-responsive">
+                <table class="text-center table mb-0 table-bordered table-striped">           
+                    <thead class="table-dark">
+                        <tr>
+                            <th>#</th>
+                            <th>Productname</th>
+                            <th>Count</th>
+                            <th>Date</th>
+                            <th>status</th>
+                            <th>Delete the Order</th>
+                            <th>Pay the Order</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbodyOrders">
+                    </tbody>
+                </table>
+            </div>
+            <div id="nocontenttable" class="bg-dark-subtle p-2 w-100">
+                <h1 class="display-6 text-center text-danger lilita-one-regular">There is no order for you</h1>
+            </div>
+        </div>
+    </div>
+</div>

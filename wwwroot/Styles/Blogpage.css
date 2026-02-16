@@ -1,0 +1,19 @@
+﻿.bingoshopinformation {
+    font-size: 1.4rem;
+    border-radius: 10px;
+    padding-bottom: 15px;
+    animation: borderRGB 2s infinite !important;
+    padding-top: 15px;
+    background-color: var(--darkbl);
+    color: white;
+}
+
+.bingoshopinformation2 {
+    font-size: 1.6rem;
+}
+
+.first {
+    background-image: url('../images/logo2.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+}

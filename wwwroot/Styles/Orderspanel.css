@@ -1,0 +1,38 @@
+﻿.divcoltables {
+    width:87%;
+}
+
+body {
+    background-image:none !important;
+}
+
+.btnnavcers {
+    animation: btnrgbco 1s infinite !important;
+}
+
+@keyframes btnrgbco {
+    0% {
+        background-color: var(--highpink);
+        border-color: var(--highpink);
+    }
+
+    25% {
+        background-color: var(--prplowpink);
+        border-color: var(--prplowpink);
+    }
+
+    50% {
+        background-color: var(--verylowprp);
+        border-color: var(--verylowprp);
+    }
+
+    75% {
+        background-color: var(--lowprp);
+        border-color: var(--lowprp);
+    }
+
+    100% {
+        background-color: var(--prp);
+        border-color: var(--prp);
+    }
+}

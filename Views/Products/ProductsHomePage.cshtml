@@ -1,0 +1,31 @@
+﻿@{
+    Layout = "~/Views/Shared/Productslayout.cshtml";
+}
+@model ProductsViewModels
+@* TODO:vaghti be back ok beshe*@
+<div class="container-fluid mt-2">
+    <div class="row">
+        <div class="justify-content-center d-flex col-4">
+            <button class="btn btn-outline-dark  btn-sm btns navlinktablefilter active" id="btnallproducts">All Products</button>
+        </div>
+        <div class="justify-content-center d-flex col-4">
+            <button class="btn btn-outline-dark  btn-sm btns navlinktablefilter " id="btnlowtohieght">Low to Hight price</button>
+        </div>
+        <div class="justify-content-center d-flex col-4">
+            <button class="btn btn-outline-dark  btn-sm btns navlinktablefilter " id="btnhieghttolow">Hight to Low price</button>
+        </div>
+    </div>
+</div>
+<div class="productstopic">
+    <h3 class="text-center pt-2" id="popitems"><u class="bordertext" id="textcontentofheader">all products</u></h3>
+    <div class="container-fluid pt-2 pb-2">
+            <div class="row justify-content-start" id="productscontainer">
+            </div>
+    </div>
+</div>
+<div class="d-flex justify-content-center divpaging">
+    <div class="Page navigation example">
+        <ul class="pagination text-light" id="paginationcontanerul">
+        </ul>
+    </div>
+</div> 

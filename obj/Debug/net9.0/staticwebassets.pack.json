@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ProJect.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProJect.izj362hr9p.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\bingologo.jpg",
+      "PackagePath": "staticwebassets\\Images\\bingologo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\bingologo3.jpg",
+      "PackagePath": "staticwebassets\\Images\\bingologo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\close-up-warehouse-view.jpg",
+      "PackagePath": "staticwebassets\\Images\\close-up-warehouse-view.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\images.png",
+      "PackagePath": "staticwebassets\\Images\\images.png"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\log.svg",
+      "PackagePath": "staticwebassets\\Images\\log.svg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\loginbackground.jpg",
+      "PackagePath": "staticwebassets\\Images\\loginbackground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\logo2.jpg",
+      "PackagePath": "staticwebassets\\Images\\logo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\pngwing.com.png",
+      "PackagePath": "staticwebassets\\Images\\pngwing.com.png"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\register.svg",
+      "PackagePath": "staticwebassets\\Images\\register.svg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\shop.jpg",
+      "PackagePath": "staticwebassets\\Images\\shop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\shopimages\\all_colors__fdpduog7urm2_xlarge.jpg",
+      "PackagePath": "staticwebassets\\Images\\shopimages\\all_colors__fdpduog7urm2_xlarge.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\shopimages\\hero-image.webp",
+      "PackagePath": "staticwebassets\\Images\\shopimages\\hero-image.webp"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\shopimages\\imglaptop.jpg",
+      "PackagePath": "staticwebassets\\Images\\shopimages\\imglaptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\shopimages\\iphonefixe-new.jpg",
+      "PackagePath": "staticwebassets\\Images\\shopimages\\iphonefixe-new.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\shopimages\\laptop-murjp1nk4lp1idlt.jpg",
+      "PackagePath": "staticwebassets\\Images\\shopimages\\laptop-murjp1nk4lp1idlt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\shopimages\\photo-1684127987312-43455fd95925.jpeg",
+      "PackagePath": "staticwebassets\\Images\\shopimages\\photo-1684127987312-43455fd95925.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\shopimages\\samsung.png",
+      "PackagePath": "staticwebassets\\Images\\shopimages\\samsung.png"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\shopimages\\someelproducts.png",
+      "PackagePath": "staticwebassets\\Images\\shopimages\\someelproducts.png"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\shopimages\\vecteezy_breached-fortress-portraying-the-menace-of-a-computer-hack_27229347.jpg",
+      "PackagePath": "staticwebassets\\Images\\shopimages\\vecteezy_breached-fortress-portraying-the-menace-of-a-computer-hack_27229347.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\shopimages\\view-illuminated-neon-gaming-keyboard-setup-controller.jpg",
+      "PackagePath": "staticwebassets\\Images\\shopimages\\view-illuminated-neon-gaming-keyboard-setup-controller.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\user.png",
+      "PackagePath": "staticwebassets\\Images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\userman.png",
+      "PackagePath": "staticwebassets\\Images\\userman.png"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\userrandom.png",
+      "PackagePath": "staticwebassets\\Images\\userrandom.png"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Images\\userwoman.png",
+      "PackagePath": "staticwebassets\\Images\\userwoman.png"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Javascript\\Accountpanel.js",
+      "PackagePath": "staticwebassets\\Javascript\\Accountpanel.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Javascript\\Index.js",
+      "PackagePath": "staticwebassets\\Javascript\\Index.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Javascript\\Json.js",
+      "PackagePath": "staticwebassets\\Javascript\\Json.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Javascript\\Orders.js",
+      "PackagePath": "staticwebassets\\Javascript\\Orders.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Javascript\\Products.js",
+      "PackagePath": "staticwebassets\\Javascript\\Products.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Javascript\\loginandregister.js",
+      "PackagePath": "staticwebassets\\Javascript\\loginandregister.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Styles\\About.css",
+      "PackagePath": "staticwebassets\\Styles\\About.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Styles\\Admin.css",
+      "PackagePath": "staticwebassets\\Styles\\Admin.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Styles\\Blogpage.css",
+      "PackagePath": "staticwebassets\\Styles\\Blogpage.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Styles\\Home.css",
+      "PackagePath": "staticwebassets\\Styles\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Styles\\Orderspanel.css",
+      "PackagePath": "staticwebassets\\Styles\\Orderspanel.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Styles\\accountpanel.css",
+      "PackagePath": "staticwebassets\\Styles\\accountpanel.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Styles\\loginandregister.css",
+      "PackagePath": "staticwebassets\\Styles\\loginandregister.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Styles\\loginandregisterpanels.css",
+      "PackagePath": "staticwebassets\\Styles\\loginandregisterpanels.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\Styles\\products.css",
+      "PackagePath": "staticwebassets\\Styles\\products.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kushan\\source\\repos\\FinalPrj\\ProJect\\ProJect\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProJect.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProJect.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ProJect.props",
+      "PackagePath": "build\\ProJect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ProJect.props",
+      "PackagePath": "buildMultiTargeting\\ProJect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ProJect.props",
+      "PackagePath": "buildTransitive\\ProJect.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProJect
+build_property.RootNamespace = ProJect
+build_property.ProjectDir = D:\important projs\first webapp\FinalPrj\ProJect\ProJect\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\important projs\first webapp\FinalPrj\ProJect\ProJect
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/About/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Account/Accountpanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2NvdW50cGFuZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Account/BestProductsPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxCZXN0UHJvZHVjdHNQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Account/LoginAndRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbkFuZFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Account/loginandregisterpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxsb2dpbmFuZHJlZ2lzdGVycGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Account/OrdersPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxPcmRlcnNQYW5lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Admin/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Admin/AdminOrdersPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5PcmRlcnNQYW5lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Admin/AdminPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5QYW5lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Admin/AdminProductsPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Qcm9kdWN0c1BhbmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Blog/BlogPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Products/ProductsHomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUHJvZHVjdHNIb21lUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Products/ProductsMoreDetailsPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUHJvZHVjdHNNb3JlRGV0YWlsc1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/AboutLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFib3V0TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/Accountlayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFjY291bnRsYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/BlogLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJsb2dMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvZ2luTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/OrderPanelLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE9yZGVyUGFuZWxMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/Productslayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb2R1Y3RzbGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/important projs/first webapp/FinalPrj/ProJect/ProJect/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

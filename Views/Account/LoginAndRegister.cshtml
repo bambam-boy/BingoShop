@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "LoginAndRegister";
+    Layout = "~/Views/Shared/LoginLayout.cshtml";
+}
+@* TODO:backend resid *@
+<div class="notifications col-12">
+</div>
+<div class="container my-3">
+    <div class="forms-container">
+        <div class="signin-signup">
+            <form href="#" class="sign-in-form needs-validation" id="sign-in-form" novalidate>
+                <h2 class="title text-light">Sign in</h2>
+                <div class="input-field">
+                    <i class="bi bi-person"></i>
+                    <input type="text" placeholder="Username Or Email" class="form-control border-0 backg shadow-none rounded-pill" id="UserNameLogin" required />
+                </div>
+                <div class="input-field">
+                    <i class="bi bi-file-lock"></i>
+                    <input type="password" placeholder="Password" class="form-control border-0 backg shadow-none rounded-pill" id="PasswordLogin" required />
+                </div>
+                <button type="submit" class="btn btn btn-outline-light" id="Loginbtn">Login</button>
+                <div class="col-12 text-center"><a class="text text-primary-emphasis">Forget password?</a></div>
+            </form>
+            <form href="#" class="sign-up-form needs-validation" id="sign-up-form" novalidate>
+                <h2 class="title text-light">Sign up</h2>
+                <div class="input-field">
+                    <i class="bi bi-file-earmark-text"></i>
+                    <input type="text" placeholder="Fullname" autocomplete="off" class="form-control border-0 backg shadow-none rounded-pill" id="Fullnamereg" required />
+                </div>
+                <div class="input-field">
+                    <i class="bi bi-person"></i>
+                    <input type="text" placeholder="Username" autocomplete="off" class="form-control border-0 backg shadow-none rounded-pill" id="Usernamereg" required />
+                </div>
+                <div class="input-field">
+                    <i class="bi bi-envelope"></i>
+                    <input type="email" placeholder="Email" autocomplete="off" class="form-control border-0 backg shadow-none rounded-pill" id="Emailreg" required />
+                </div>
+                <div class="input-field">
+                    <i class="bi bi-file-lock"></i>
+                    <input type="password" placeholder="Password" autocomplete="off" class="form-control border-0 backg shadow-none rounded-pill" id="passwordreg" required />
+                </div>
+                <div class="input-field">
+                    <i class="bi bi-file-lock"></i>
+                    <input type="password" placeholder="Re Password" autocomplete="off" class="form-control border-0 backg shadow-none rounded-pill" id="repassreg" required />
+                </div>
+                <button type="submit" class="btn btn btn-outline-light" id="regbtn">Sing Up</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="panels-container">
+        <div class="panel left-panel">
+            <div class="content">
+                <h3>New here ?</h3>
+                <p>if you want to sing up in our web site You have made one of the best decisions for your money and full assurance of buying your quality products</p>
+                <button class="btn transparent text-light" id="sign-up-btn">
+                    Sign up
+                </button>
+            </div>
+            <img src="~/Images/log.svg" class="image" alt="" />
+        </div>
+        <div class="panel right-panel">
+            <div class="content justify-self-center">
+                <h3>One of us ?</h3>
+                <p>
+                    if you want login in to your account you decided to come back to our site and it is your best decision
+                </p>
+                <button class="btn transparent text-light" id="sign-in-btn">
+                    Sign in
+                </button>
+            </div>
+            <img src="~/Images/register.svg" class="image" alt="" />
+        </div>
+    </div>
+</div>

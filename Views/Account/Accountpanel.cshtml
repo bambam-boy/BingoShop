@@ -1,0 +1,87 @@
+﻿@{
+    Layout = "~/Views/Shared/Accountlayout.cshtml";
+}
+
+@model PropsViewModels
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content bg-dark text-light">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">New message</h1>
+                <button type="button" class="btn-close" id="clb" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form id="changepasswordform" class="needs-validation" novalidate>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="CurrentPassword" class="col-form-label">Old password</label>
+                        <input type="password" required class="form-control" id="CurrentPassword">
+                    </div>
+                    <div class="mb-3">
+                        <label for="CurrentPassword" class="col-form-label">New password</label>
+                        <input type="password" required class="form-control" id="NewPassword">
+                    </div>
+                    <div class="mb-3">
+                        <label for="CurrentPassword" class="col-form-label">Re password</label>
+                        <input type="password" required  class="form-control" id="Passagain">
+                    </div>                    
+                    <div class="mb-3">
+                        <span class="text-danger" style="font:x-large" id="errorspan"></span>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary">Send message</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div id="liveAlertPlaceholder"></div>
+<div class="container-fluid">
+    <div class="row d-flex justify-content-center pb-5 pt-0">
+        <form id="validationform" class="needs-validation d-flex justify-content-center p-0" novalidate>
+            <div class="col-auto col-lg-4 col-xl-4 col-xxl-4 col-sm-12 col-md-6 divborderco p-4">
+                <div class="profile">
+                    <div class="row">
+                        <div class="col-12 d-flex justify-content-center">
+                            <div class="childimg rounded-circle border border-black">
+                                <img src="~/images/user.png" class="img-fluid" alt="userlogo" />
+                            </div>
+                        </div>
+                        <div class="col-12 py-3">
+                            <label>Full name</label>
+                            <div class="input-group">
+                                <span class="input-group-text" id="basic-addon2"><i class="bi text-black bi-person-vcard"></i></span>
+                                <input asp-for="FullName" class="form-control" placeholder="enter your full name" required />
+                            </div>
+                        </div>
+                        <div class="col-12 py-3">
+                            <label>EmailAddress</label>
+                            <div class="input-group">
+                                <span class="input-group-text" id="basic-addon2"><i class="bi bi-envelope text-black"></i></span>
+                                <input type="email" class="form-control" placeholder="enter your emailaddress" asp-for="UserName" aria-label="Recipient's username" aria-describedby="basic-addon2" required>
+                                  <div class="invalid-feedback">pleas enter a valid email</div>
+                            </div>
+                        </div>
+                        <div class="col-12 py-3">
+                            <label>Phone Number</label>
+                            <div class="input-group">
+                                <span class="input-group-text" id="basic-addon2"><i class="bi bi-telephone text-black"></i></span>
+                                <input type="text" class="form-control" placeholder="enter your phonenumber" asp-for="PhoneNumber" aria-label="Recipient's username" aria-describedby="basic-addon2" required>
+                            </div>
+                        </div>
+                        <div class="col-12 py-3">
+                            <button class="w-100 btnsuprofile">Update information</button>
+                        </div>
+                        <div class="col-12 py-3">
+                            <div class="row d-flex justify-content-center">
+                                <div class="col-12 text-center">
+                                    <button class="accountlinks p-1" id="btnresetpasswordaccountpanel" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">Reset password with old password</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

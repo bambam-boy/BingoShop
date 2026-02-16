@@ -1,0 +1,177 @@
+wwwroot\favicon.ico
+wwwroot\Images\bingologo.jpg
+wwwroot\Images\bingologo3.jpg
+wwwroot\Images\close-up-warehouse-view.jpg
+wwwroot\Images\images.png
+wwwroot\Images\log.svg
+wwwroot\Images\loginbackground.jpg
+wwwroot\Images\logo2.jpg
+wwwroot\Images\pngwing.com.png
+wwwroot\Images\register.svg
+wwwroot\Images\shop.jpg
+wwwroot\Images\shopimages\all_colors__fdpduog7urm2_xlarge.jpg
+wwwroot\Images\shopimages\hero-image.webp
+wwwroot\Images\shopimages\imglaptop.jpg
+wwwroot\Images\shopimages\iphonefixe-new.jpg
+wwwroot\Images\shopimages\laptop-murjp1nk4lp1idlt.jpg
+wwwroot\Images\shopimages\photo-1684127987312-43455fd95925.jpeg
+wwwroot\Images\shopimages\samsung.png
+wwwroot\Images\shopimages\someelproducts.png
+wwwroot\Images\shopimages\vecteezy_breached-fortress-portraying-the-menace-of-a-computer-hack_27229347.jpg
+wwwroot\Images\shopimages\view-illuminated-neon-gaming-keyboard-setup-controller.jpg
+wwwroot\Images\user.png
+wwwroot\Images\userman.png
+wwwroot\Images\userrandom.png
+wwwroot\Images\userwoman.png
+wwwroot\Javascript\Accountpanel.js
+wwwroot\Javascript\Index.js
+wwwroot\Javascript\Json.js
+wwwroot\Javascript\loginandregister.js
+wwwroot\Javascript\Orders.js
+wwwroot\Javascript\Products.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\Styles\About.css
+wwwroot\Styles\accountpanel.css
+wwwroot\Styles\Admin.css
+wwwroot\Styles\Blogpage.css
+wwwroot\Styles\Home.css
+wwwroot\Styles\loginandregister.css
+wwwroot\Styles\loginandregisterpanels.css
+wwwroot\Styles\Orderspanel.css
+wwwroot\Styles\products.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\favicon.ico
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Images\log.svg
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Images\register.svg
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Javascript\Accountpanel.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Javascript\Index.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Javascript\loginandregister.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Javascript\Orders.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Javascript\Products.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery-validation\LICENSE.md
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery\dist\jquery.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery\dist\jquery.min.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery\dist\jquery.min.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\lib\jquery\LICENSE.txt
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Styles\About.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Styles\accountpanel.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Styles\Admin.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Styles\Blogpage.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Styles\Home.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Styles\loginandregister.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Styles\loginandregisterpanels.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Styles\Orderspanel.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Styles\products.css
+D:\important projs\first webapp\FinalPrj\ProJect\ProJect\wwwroot\Javascript\Json.js

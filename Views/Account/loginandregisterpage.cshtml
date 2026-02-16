@@ -1,0 +1,84 @@
+﻿@{
+    Layout = "~/Views/Shared/LoginLayout.cshtml";
+}
+@model PropsViewModels
+@* TODO:backend resid *@
+
+<div class="container my-3">
+    <div class="forms-container">
+        <div class="signin-signup">
+            <form href="#" class="sign-in-form needs-validation" id="sign-in-form" novalidate>
+                <h2 class="title text-light">Sign in</h2>
+                <div class="input-field">
+                    <i class="bi bi-person"></i>
+                    <input type="text" placeholder="Email" class="form-control border-0 backg shadow-none rounded-pill" autocomplete="off" id="loginusername" required />
+                </div>
+                <div class="input-field">
+                    <i class="bi bi-file-lock"></i>
+                    <input type="password" placeholder="Password" class="form-control border-0 backg shadow-none rounded-pill" id="loginpassword" autocomplete="off" required />
+                </div>
+                <div class="form-check form-switch">
+
+                    <input class="form-check-input" type="checkbox" asp-for="keeplo">
+                    <label class="form-check-label" for="flexSwitchCheckDefault">keep me login</label>
+                </div>
+                <button type="submit" class="btn btn btn-outline-light" id="Loginbtn">Login</button>
+                <div class="col-12 text-center"><a class="text text-primary-emphasis">Forget password?</a></div>
+            </form>
+            <form href="#" class="sign-up-form needs-validation" id="sign-up-form" novalidate>
+                <h2 class="title m-0     text-light">Sign up</h2>
+                <div class="input-field my-1 my-md-2 my-lg-2 my-xl-2 my-xxl-2">
+                    <i class="bi bi-file-earmark-text"></i>
+                    <input type="text" placeholder="Fullname" autocomplete="off" class="form-control border-0 backg shadow-none rounded-pill" asp-for="FullName" required />
+                </div>
+                <div class="input-field my-1 my-md-2 my-lg-2 my-xl-2 my-xxl-2">
+                    <i class="bi bi-envelope"></i>
+                    <input type="email" placeholder="Email" autocomplete="off" class="form-control border-0 backg shadow-none rounded-pill" asp-for="UserName" required />
+                </div>
+                <div class="input-field my-1 my-md-2 my-lg-2 my-xl-2 my-xxl-2">
+                    <i class="bi bi-telephone"></i>
+                    <input placeholder="phonenumber" autocomplete="off" class="form-control border-0 backg shadow-none rounded-pill" type="number" asp-for="PhoneNumber" required />
+                </div>
+                <span id="validsapn" class="validationspns"></span>
+                <div class="input-field my-1 my-md-2 my-lg-2 my-xl-2 my-xxl-2">
+                    <i class="bi bi-file-lock"></i>
+                    <input type="password" placeholder="Password" autocomplete="off" class="form-control border-0 backg shadow-none rounded-pill" asp-for="Password" required />
+                </div>
+                <div class="progress col-9 p-0 text-black" role="progressbar" aria-label="Danger example" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                    <div class="progress-bar d-felx justify-content-center" id="teststright" style=" width: 0"></div>
+                </div>
+                <div class="input-field my-1 my-md-2 my-lg-2 my-xl-2 my-xxl-2">
+                    <i class="bi bi-file-lock"></i>
+                    <input type="password" placeholder="Re Password" autocomplete="off" class="form-control border-0 backg shadow-none rounded-pill" id="repass" required />
+                </div>
+                <span id="passvlidspan" class="validationspns"></span>
+                <button type="submit" class="btn btn-outline-light" id="regbtn">Sing Up</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="panels-container">
+        <div class="panel left-panel">
+            <div class="content">
+                <h3>New here ?</h3>
+                <p>if you want to sing up in our web site You have made one of the best decisions for your money and full assurance of buying your quality products</p>
+                <button class="btn transparent text-light" id="sign-up-btn">
+                    Sign up
+                </button>
+            </div>
+            <img src="~/Images/log.svg" class="image" alt="" />
+        </div>
+        <div class="panel right-panel">
+            <div class="content justify-self-center">
+                <h3>One of us ?</h3>
+                <p>
+                    if you want login in to your account you decided to come back to our site and it is your best decision
+                </p>
+                <button class="btn transparent text-light" id="sign-in-btn">
+                    Sign in
+                </button>
+            </div>
+            <img src="~/Images/register.svg" class="image" alt="" />
+        </div>
+    </div>
+</div>

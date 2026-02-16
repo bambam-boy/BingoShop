@@ -1,0 +1,164 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+.btnnavbarleft {
+    width: 150px;
+    color: white;
+    background-color: var(--darkcolor);
+    border-radius: 1000px;
+    height: 40px;
+    border: transparent;
+    transition: 1s;
+}
+
+.btnnavbarleft:hover{
+    border: 2.5px solid #8317ca;
+    box-shadow: 0 0 70px #7209b7;
+    transition: .5s;
+}
+
+.accountlinks {
+    color: #00b4d8;
+    border: none;
+    background-color: transparent;
+    padding: 0;
+}
+
+.accountlinks:hover {
+    color: #008ca8;
+}
+
+.navlinkscolco {
+    color: white !important;
+}
+
+#logoutbtn {
+    justify-self:center;
+    background-color: transparent;
+    border: none;
+    color:white;
+    font-size:1.2rem;
+    display:flex;
+}
+
+    #logoutbtn i {
+        font-size: 1.4rem;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+#logoutbtn:hover i {
+    color:#971315 !important;
+}
+    #logoutbtn:hover {
+        color: var(--darkgray) !important
+    }
+
+.offcanvas-body i {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.offcanvas-body {
+    padding:0 !important;
+}
+
+.offcanvas li {
+    font-size: 1.11rem;
+}
+
+    .offcanvas li:hover .bi {
+        color: #EFBF04 !important;
+    }
+
+.offcanvas {
+    width: 245px !important;
+}
+
+.navlinkscolco:hover {
+    color: #EFBF04 !important
+}
+
+.childimg {
+    width: 150px;
+}
+
+.divborderco {
+    border-radius: 20px;
+    animation: boxshforform 1s infinite;
+}
+
+@keyframes boxshforform {
+    0% {
+        box-shadow: 0 0 25px var(--highpink);
+    }
+
+    25% {
+        box-shadow: 0 0 25px var(--prplowpink);
+    }
+
+    50% {
+        box-shadow: 0 0 25px var(--verylowprp);
+    }
+
+    75% {
+        box-shadow: 0 0 25px var(--lowprp);
+    }
+
+    100% {
+        box-shadow: 0 0 25px var(--prp);
+    }
+}
+
+.btnfixed {
+    position: fixed;
+    top: 5px;
+}
+
+.btnsuprofile {
+    background: white !important;
+    width: 100%;
+    border-radius: 1000px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    height: 40px;
+    transition: 1s;
+}
+
+.btnsuprofile::after {
+    content: '';
+    position: absolute;
+    width: 102%;
+    height: 118%;
+    border-radius: 1000px;
+    z-index: -1;
+    background: linear-gradient(100deg, var(--lowdarkpurp), var(--logopink)) !important;
+    transition: 1s ;
+}
+
+    .btnsuprofile:hover {
+        background: linear-gradient(100deg, var(--lowdarkpurp), var(--logopink)) !important;
+        transition: 1s;
+    }
+
+.fontsi {
+    font-size: 3px;
+    color: black;
+}
+
+.btnclosenav {
+    position:absolute;
+    top:18.5px;
+    right:10px;
+    border:none;
+    background-color:transparent;
+    color:white;
+}
+
+    .btnclosenav:hover i{
+        color:red !important;
+    }
