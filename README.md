@@ -1,0 +1,1 @@
+# BingoShop
